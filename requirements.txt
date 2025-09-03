@@ -1,0 +1,3 @@
+label-studio
+gunicorn
+psycopg2-binary
